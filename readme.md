@@ -2,7 +2,7 @@
 
 A cyberpunk-themed calculator web application featuring a unique hacker aesthetic with terminal-style interface, CRT effects, and interactive sound design.
 
-![H4ck3r C4lcul4t0r](https://i.imgur.com/placeholder.png)
+![H4ck3r C4lcul4t0r]
 
 ## Features
 
@@ -62,5 +62,5 @@ This project is open source and available under the MIT License.
 
 ## Credits
 
-Created with 💚 by [Your Name]
+Created by staycold66
 Font: Share Tech Mono from Google Fonts
